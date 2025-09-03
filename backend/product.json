@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Shirt",
+    "price": 499,
+    "image": "https://image.hm.com/assets/hm/95/01/9501df3d525909b311e254f66997576c51722d49.jpg"
+  },
+  {
+    "name": "T-Shirt",
+    "price": 299,
+    "image": "https://image.hm.com/assets/hm/63/1c/631ccea905f3e1a3eae462619e8b59eadd634192.jpg"
+  },
+  {
+    "name": "Jacket",
+    "price": 1299,
+    "image": "https://image.hm.com/assets/hm/f2/8b/f28b5a291dc2f292c06f3124fb43104b0a36398c.jpg"
+  },
+  {
+    "name": "Jacket",
+    "price": 899,
+    "image": "https://image.hm.com/assets/hm/8b/d1/8bd12e97fafcad482ca95c9448a07920c58205ad.jpg"
+  },
+  {
+    "name": "T-Shirt",
+    "price": 699,
+    "image": "https://image.hm.com/assets/hm/d2/d5/d2d5589e583bb6b1ad828473b75ce8b7ca97cfe0.jpg"
+  },
+  {
+    "name": "SweatShirt",
+    "price": 999,
+    "image": "https://image.hm.com/assets/hm/7b/0f/7b0fbc38690a8d4285f6036d23b2f103a9276c85.jpg"
+  },
+  {
+    "name": "Jeans",
+    "price": 450,
+    "image": "https://image.hm.com/assets/hm/5e/0d/5e0d6de907abd3a92cb89ae185a20dd347100206.jpg"
+  },
+  {
+    "name": "SweatShirt",
+    "price": 45999,
+    "image": "https://image.hm.com/assets/hm/f7/02/f702643492bc7884dce1c1426942386a3e5ef37c.jpg"
+  },
+  {
+    "name": "Jeans",
+    "price": 24999,
+    "image": "https://image.hm.com/assets/hm/f9/37/f93721b97fc14d18da6233a9fbc84aad495cf59a.jpg"
+  },
+  {
+    "name": "SweatShirt",
+    "price": 1599,
+    "image": "https://image.hm.com/assets/hm/29/16/2916a63c03326d0ffca459217eb7ce6d3e659f05.jpg"
+  },
+  {
+    "name": "Joggers",
+    "price": 15999,
+    "image": "https://image.hm.com/assets/hm/93/b5/93b5223d91fcedcd3e8f30abc128519e0363a039.jpg"
+  },
+  {
+    "name": "Cap",
+    "price": 2499,
+    "image": "https://image.hm.com/assets/hm/31/94/31945c74db8d91dfe5347d50101aa6988875f641.jpg"
+  },
+  {
+    "name": "SweatShirt",
+    "price": 1599,
+    "image": "https://image.hm.com/assets/hm/29/16/2916a63c03326d0ffca459217eb7ce6d3e659f05.jpg"
+  },
+  {
+    "name": "Joggers",
+    "price": 15999,
+    "image": "https://image.hm.com/assets/hm/93/b5/93b5223d91fcedcd3e8f30abc128519e0363a039.jpg"
+  },
+  {
+    "name": "Cap",
+    "price": 2499,
+    "image": "https://image.hm.com/assets/hm/31/94/31945c74db8d91dfe5347d50101aa6988875f641.jpg"
+  }
+]
